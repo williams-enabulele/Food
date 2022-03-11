@@ -22,7 +22,8 @@ const styles = StyleSheet.create({
         height: 60,
         borderRadius: 15,
         flexDirection: 'row',
-        marginTop: 15
+        marginTop: 15,
+        marginHorizontal: 50
 
     },
 
